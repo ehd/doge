@@ -1,8 +1,11 @@
 {
   "name": "doge",
-  "version": "7.0.29-such.version",
+  "version": "8.6.72-much.update",
   "description": "much package",
   "main": "much-scale.js",
+  "bin": {
+    "doge": "bin/such-cmd.js"
+  },
   "scripts": {
     "test": "is tested"
   },
