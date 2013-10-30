@@ -1,18 +1,20 @@
 {
   "name": "doge",          "version": "8.6.72-much.update",
-  "description": "much package",       "main": "much-scale.js",
+  "description": "much package",       "main": "lib/such-code.js",
                                     "bin": {
     "doge": "bin/such-cmd.js"
 
                                       },"scripts": {                "test": "is tested"
   },
                       "dependencies": {
+                    "colors": "~0.6.2",
                                               "such": "1.0.2",
     "dependency": "2.1",
                                  "wow": "0.2.7"
   },
   "author": "Doge <doge@much.internet>",
                                              "license": "WOW",
+          "nice":         "amaze",
                    "readmeFilename": "README.md",
   "repository": {
                                            "type": "git",
