@@ -4,7 +4,7 @@ var doge = require('../lib/such-code.js'),
         wow, such = process.argv.slice(2);
 
 if (!such.length)
-  such = ["doge", "excite", "node", "scalability", "mongo", "webscale", "nod.js", "hacking"];
+  such = ["doge", "excite", "node", "scalability", "mongo", "webscale", "node.js", "hacking"];
 
                 for ( var suchLines = 0; suchLines
      < Math.random()*30|0      // wow so random
