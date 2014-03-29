@@ -11,7 +11,8 @@
   },
   "nice": "amaze",
   "bin": {
-    "doge": "bin/such-cmd.js"
+    "doge": "bin/such-cmd.js",
+    "verygrep": "bin/verygrep.sh"
   },
   "name": "doge",
   "author": "Doge <doge@much.internet>",
