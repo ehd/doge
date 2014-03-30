@@ -15,7 +15,7 @@
     "verygrep": "bin/verygrep.sh"
   },
   "name": "doge",
-  "author": "Doge <doge@much.internet>",
+  "author": "Doge <doge@much.email.very.internet.wow>",
   "keywords": [
     "wow",
     "such",
@@ -26,7 +26,7 @@
     "shiba",
     "inu"
   ],
-  "version": "19.9.9-much.party",
+  "version": "19.9.11-much.party",
   "description": "much package",
   "dependencies": {
     "colors": "~0.6.2"
